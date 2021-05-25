@@ -1,0 +1,2 @@
+If you will face this issue: https://stackoverflow.com/questions/42877269/mysqli-connect-28000-1045-access-denied-for-user-usernamelocalhost-u/42877384 
+after creating new mySQL database, quick solution is to change your cPanel password
